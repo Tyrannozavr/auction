@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29ef3af-e474-4321-8ff8-300fab34f095" name="Changes" comment="" />
+    <list default="true" id="c29ef3af-e474-4321-8ff8-300fab34f095" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/111.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +68,34 @@
       <option name="presentableId" value="Default" />
       <updated>1643656083748</updated>
       <workItem from="1643656085907" duration="647000" />
+      <workItem from="1643729267645" duration="342000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1643729385818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643729385818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
