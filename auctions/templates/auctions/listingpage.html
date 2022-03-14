@@ -45,12 +45,12 @@
 
         <form method = "get" action ="{% url 'allcomments' %}">
         <input required type = "text" placeholder = "Добавить комментарий" name = "comment">
-        <button class="btn btn-outline-primary" type = "submit" value = {{ list.id }} name = "listid"> отправиить </button>
+        <button class="btn btn-outline-primary" type = "submit" value = {{ list.id }} name = "listid"> отправить </button>
         </form>
         <div class= "closebid">
         {% if list.user == user.username %}
         <form method= "get" action = "{% url 'win_ner' %}">
-        <button class="btn btn-outline-primary" type = "submit" value = {{ list.id }} name = "listid" >Close Bid</button>
+        <button class="btn btn-outline-primary" type = "submit" value = {{ list.id }} name = "listid" >Закрыть ставку</button>
         </form>
         {% endif %}
         </div>

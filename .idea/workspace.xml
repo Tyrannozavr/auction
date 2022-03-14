@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c29ef3af-e474-4321-8ff8-300fab34f095" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/migrations/0002_winner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/migrations/0003_winner_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/migrations/0004_auto_20200731_1615.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/templates/auctions/listingpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/templates/auctions/listingpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/templates/auctions/winnings.html" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/templates/auctions/winnings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auctions/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +50,23 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="commerce.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../books_train/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
       <option name="host" value="" />
@@ -69,6 +89,7 @@
       <updated>1643656083748</updated>
       <workItem from="1643656085907" duration="647000" />
       <workItem from="1643729267645" duration="342000" />
+      <workItem from="1647277234079" duration="7893000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1643729385818</created>
